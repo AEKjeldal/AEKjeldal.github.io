@@ -1,7 +1,7 @@
 baseURL:
 languageCode: en-us
-title: Cyclomatic Sisyphus
-theme: PaperMod
+title: Anders Egelund Kjeldal
+theme: hugo-PaperMod
 
 
 params:

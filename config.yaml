@@ -1,7 +1,8 @@
 baseURL:
 languageCode: en-us
-title: Anders Egelund Kjeldal
+title: Aekjeldal
 theme: hugo-PaperMod
+
 
 
 params:
@@ -16,4 +17,11 @@ params:
       Title: "Aekjeldal"
       Content: ""
 
-
+markup:
+    highlight:
+        # anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        # noClasses: false
+        style: monokai

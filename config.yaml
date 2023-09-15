@@ -1,0 +1,19 @@
+baseURL:
+languageCode: en-us
+title: Cyclomatic Sisyphus
+theme: PaperMod
+
+
+params:
+  math: true
+  name: Anders Egelund Kjeldal
+  github: https://github.com/AEKjeldal/
+  rss:  true                                # show rss icon
+  ShowReadingTime: true
+  ShowBreadcrumbs: true
+  ShowPostNavLinks: true
+  homeInfoParams:
+      Title: "Aekjeldal"
+      Content: ""
+
+

@@ -13,7 +13,7 @@ params:
   ShowBreadcrumbs: true
   ShowPostNavLinks: true
   homeInfoParams:
-      Title: "Cyclomatic Sisyphus"
+      Title: "Aekjeldal"
       Content: ""
 
 
